@@ -14,7 +14,7 @@ image=Image.open('logo_stmik_new.png')
 st.image(image, use_column_width=True)
 
 #Judul Display
-st.title('Heart Disease Predict Using Machine Learning :heart:')
+st.title('Heart Disease Predict Using Machine Learning')
 st.write("---")
 
 #Load Dataset
